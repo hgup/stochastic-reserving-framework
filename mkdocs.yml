@@ -1,9 +1,23 @@
 site_name: Stochastic Reserving Framework
-nav:
-  - Home: docs/index.md
-  - Usage: docs/usage.md
+repo_url: https://github.com/hgup/stochastic-reserving-framework
+repo_name: "Stochastic Reserving Framework"
+site_url: https://hgup.github.io/stochastic-reserving-framework/
 theme:
   name: material
-markdown_extensions:
-  - toc:
-      permalink: true
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: white
+      accent: amber
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: amber
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode

@@ -1,4 +1,4 @@
-# Stochastic Reserving Framework — Documentation
+# Home
 
 Welcome to the documentation for the Stochastic Reserving Framework.
 
