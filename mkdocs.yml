@@ -1,0 +1,9 @@
+site_name: Stochastic Reserving Framework
+nav:
+  - Home: docs/index.md
+  - Usage: docs/usage.md
+theme:
+  name: material
+markdown_extensions:
+  - toc:
+      permalink: true
