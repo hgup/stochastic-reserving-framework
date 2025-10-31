@@ -1,0 +1,4 @@
+site_name: Stochastic Reserving Framework
+site_url: https://hgup.github.io/stochastic-reserving-framework/
+theme:
+  name: material
